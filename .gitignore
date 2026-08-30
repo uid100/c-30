@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Node (if you ever use npm)
+node_modules/
+
+# Python (if you ever add Python tooling)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build / generated files
+dist/
+build/
+
+# OS / editor metadata
+Thumbs.db
+Desktop.ini
